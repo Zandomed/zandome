@@ -5,3 +5,9 @@
  */
 
 // You can delete this file if you're not using it
+const React = require("react")
+const { WrapWithProvider } = require('./src/wrap-with-provider');
+
+exports.wrapRootElement = ({ children }) => (
+   <WrapWithProvider>{children}</WrapWithProvider>
+);

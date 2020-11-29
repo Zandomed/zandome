@@ -10,7 +10,6 @@ import PropTypes, { ReactElementLike } from 'prop-types';
 import { useStaticQuery, graphql, PageProps } from 'gatsby';
 
 import Header from './header';
-import './layout.css';
 
 type DataProps = {
    children: string | number | boolean | {} | ReactElementLike | ReactNodeArray;
