@@ -1,4 +1,5 @@
 import { css, createGlobalStyle } from 'styled-components';
+import { FontFamily } from './font-family';
 
 const size = {
    mobileS: '320px',
@@ -22,20 +23,25 @@ export const device = {
 };
 
 export const GlobalStyles = createGlobalStyle`
+
+  // Import FontFace 
+  ${FontFamily}
+
   html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    font: 112.5%/1.45em georgia, serif, sans-serif;
+    font: 112.5%/1.45em "Poppins", georgia, serif, sans-serif;
     box-sizing: border-box;
     overflow-y: auto;
+    background-color: #212121;
   }
 
   body {
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: hsla(0, 0%, 0%, 0.8);
-    font-family: georgia, serif;
+    color: #fff;
+    font-family: "Poppins", georgia, serif;
     font-weight: normal;
     word-wrap: break-word;
     font-kerning: normal;
@@ -43,6 +49,7 @@ export const GlobalStyles = createGlobalStyle`
     -ms-font-feature-settings: "kern", "liga", "clig", "calt";
     -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
     font-feature-settings: "kern", "liga", "clig", "calt";
+    background-color: #212121;
   }
 
   main{
