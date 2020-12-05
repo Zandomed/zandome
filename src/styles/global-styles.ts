@@ -33,11 +33,13 @@ export const GlobalStyles = createGlobalStyle`
     font: 112.5%/1.45em "Poppins", georgia, serif, sans-serif;
     box-sizing: border-box;
     overflow-y: auto;
-    background-color: #212121;
+    background-color: #121212;
   }
 
   body {
     margin: 0;
+    width: 100vw;
+    height: 100vh;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -49,7 +51,14 @@ export const GlobalStyles = createGlobalStyle`
     -ms-font-feature-settings: "kern", "liga", "clig", "calt";
     -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
     font-feature-settings: "kern", "liga", "clig", "calt";
-    background-color: #212121;
+    background-color: #121212;
+  }
+
+  #___gatsby{
+    height: 100%;
+    #gatsby-focus-wrapper{
+      height: 100%;
+    }
   }
 
   main{

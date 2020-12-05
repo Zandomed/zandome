@@ -4,12 +4,11 @@ import Layout from './components/layout';
 import { GlobalStyles } from './styles/global-styles';
 
 const WrapWithProvider = ({ children }) => {
-   console.log(children);
    return (
       <Fragment>
          <GlobalStyles />
-         {/* <Layout children={children} /> */}
-         {children}
+         <Layout children={children} />
+         {/* {children} */}
       </Fragment>
    );
 };

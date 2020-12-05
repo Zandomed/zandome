@@ -1,0 +1,824 @@
+<svg version="1.1" id="prefix__Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0" y="0" viewBox="0 0 619 849" xml:space="preserve">
+	<style>
+		.prefix__st0,
+		.prefix__st1,
+		.prefix__st2,
+		.prefix__st3,
+		.prefix__st4 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #00a1ae
+		}
+
+		.prefix__st1,
+		.prefix__st2,
+		.prefix__st3,
+		.prefix__st4 {
+			fill: #00a1ad
+		}
+
+		.prefix__st2,
+		.prefix__st3,
+		.prefix__st4 {
+			fill: #00a0ad
+		}
+
+		.prefix__st3,
+		.prefix__st4 {
+			fill: #00a0ac
+		}
+
+		.prefix__st4 {
+			fill: #009fad
+		}
+
+		.prefix__st5,
+		.prefix__st6,
+		.prefix__st7,
+		.prefix__st8,
+		.prefix__st9 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #009fac
+		}
+
+		.prefix__st6,
+		.prefix__st7,
+		.prefix__st8,
+		.prefix__st9 {
+			fill: #009eac
+		}
+
+		.prefix__st7,
+		.prefix__st8,
+		.prefix__st9 {
+			fill: #009dab
+		}
+
+		.prefix__st8,
+		.prefix__st9 {
+			fill: #009cab
+		}
+
+		.prefix__st9 {
+			fill: #009caa
+		}
+
+		.prefix__st10,
+		.prefix__st11,
+		.prefix__st12,
+		.prefix__st13,
+		.prefix__st14 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #009baa
+		}
+
+		.prefix__st11,
+		.prefix__st12,
+		.prefix__st13,
+		.prefix__st14 {
+			fill: #009aaa
+		}
+
+		.prefix__st12,
+		.prefix__st13,
+		.prefix__st14 {
+			fill: #0098a8
+		}
+
+		.prefix__st13,
+		.prefix__st14 {
+			fill: #0098a9
+		}
+
+		.prefix__st14 {
+			fill: #0097a8
+		}
+
+		.prefix__st15,
+		.prefix__st16,
+		.prefix__st17,
+		.prefix__st18,
+		.prefix__st19 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #0096a8
+		}
+
+		.prefix__st16,
+		.prefix__st17,
+		.prefix__st18,
+		.prefix__st19 {
+			fill: #0095a8
+		}
+
+		.prefix__st17,
+		.prefix__st18,
+		.prefix__st19 {
+			fill: #0094a7
+		}
+
+		.prefix__st18,
+		.prefix__st19 {
+			fill: #0094a6
+		}
+
+		.prefix__st19 {
+			fill: #0093a6
+		}
+
+		.prefix__st20,
+		.prefix__st21,
+		.prefix__st22,
+		.prefix__st23,
+		.prefix__st24 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #0092a6
+		}
+
+		.prefix__st21,
+		.prefix__st22,
+		.prefix__st23,
+		.prefix__st24 {
+			fill: #0091a5
+		}
+
+		.prefix__st22,
+		.prefix__st23,
+		.prefix__st24 {
+			fill: #0090a5
+		}
+
+		.prefix__st23,
+		.prefix__st24 {
+			fill: #008fa4
+		}
+
+		.prefix__st24 {
+			fill: #008ea4
+		}
+
+		.prefix__st25,
+		.prefix__st26,
+		.prefix__st27,
+		.prefix__st28,
+		.prefix__st29 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #008da3
+		}
+
+		.prefix__st26,
+		.prefix__st27,
+		.prefix__st28,
+		.prefix__st29 {
+			fill: #008ca2
+		}
+
+		.prefix__st27,
+		.prefix__st28,
+		.prefix__st29 {
+			fill: #008ba2
+		}
+
+		.prefix__st28,
+		.prefix__st29 {
+			fill: #008aa2
+		}
+
+		.prefix__st29 {
+			fill: #008aa1
+		}
+
+		.prefix__st30,
+		.prefix__st31,
+		.prefix__st32,
+		.prefix__st33,
+		.prefix__st34 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #0089a2
+		}
+
+		.prefix__st31,
+		.prefix__st32,
+		.prefix__st33,
+		.prefix__st34 {
+			fill: #0088a1
+		}
+
+		.prefix__st32,
+		.prefix__st33,
+		.prefix__st34 {
+			fill: #0088a0
+		}
+
+		.prefix__st33,
+		.prefix__st34 {
+			fill: #0087a0
+		}
+
+		.prefix__st34 {
+			fill: #0086a0
+		}
+
+		.prefix__st35,
+		.prefix__st36,
+		.prefix__st37,
+		.prefix__st38,
+		.prefix__st39 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #00859f
+		}
+
+		.prefix__st36,
+		.prefix__st37,
+		.prefix__st38,
+		.prefix__st39 {
+			fill: #00849e
+		}
+
+		.prefix__st37,
+		.prefix__st38,
+		.prefix__st39 {
+			fill: #00849f
+		}
+
+		.prefix__st38,
+		.prefix__st39 {
+			fill: #00839e
+		}
+
+		.prefix__st39 {
+			fill: #00829e
+		}
+
+		.prefix__st40,
+		.prefix__st41,
+		.prefix__st42,
+		.prefix__st43,
+		.prefix__st44 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #00819d
+		}
+
+		.prefix__st41,
+		.prefix__st42,
+		.prefix__st43,
+		.prefix__st44 {
+			fill: #00809d
+		}
+
+		.prefix__st42,
+		.prefix__st43,
+		.prefix__st44 {
+			fill: #00809c
+		}
+
+		.prefix__st43,
+		.prefix__st44 {
+			fill: #007f9c
+		}
+
+		.prefix__st44 {
+			fill: #007f9b
+		}
+
+		.prefix__st45,
+		.prefix__st46,
+		.prefix__st47,
+		.prefix__st48,
+		.prefix__st49 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #007e9b
+		}
+
+		.prefix__st46,
+		.prefix__st47,
+		.prefix__st48,
+		.prefix__st49 {
+			fill: #007d9b
+		}
+
+		.prefix__st47,
+		.prefix__st48,
+		.prefix__st49 {
+			fill: #007d9a
+		}
+
+		.prefix__st48,
+		.prefix__st49 {
+			fill: #007c9a
+		}
+
+		.prefix__st49 {
+			fill: #007b9a
+		}
+
+		.prefix__st50,
+		.prefix__st51,
+		.prefix__st52,
+		.prefix__st53,
+		.prefix__st54 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #007a99
+		}
+
+		.prefix__st51,
+		.prefix__st52,
+		.prefix__st53,
+		.prefix__st54 {
+			fill: #007999
+		}
+
+		.prefix__st52,
+		.prefix__st53,
+		.prefix__st54 {
+			fill: #007998
+		}
+
+		.prefix__st53,
+		.prefix__st54 {
+			fill: #007898
+		}
+
+		.prefix__st54 {
+			fill: #007798
+		}
+
+		.prefix__st55,
+		.prefix__st56,
+		.prefix__st57,
+		.prefix__st58,
+		.prefix__st60 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #007697
+		}
+
+		.prefix__st56,
+		.prefix__st57,
+		.prefix__st58,
+		.prefix__st60 {
+			fill: #007597
+		}
+
+		.prefix__st57,
+		.prefix__st58,
+		.prefix__st60 {
+			fill: #007596
+		}
+
+		.prefix__st58,
+		.prefix__st60 {
+			fill: #007496
+		}
+
+		.prefix__st60 {
+			fill: #00a6b2
+		}
+
+		.prefix__st61,
+		.prefix__st62,
+		.prefix__st63,
+		.prefix__st64,
+		.prefix__st65 {
+			clip-path: url(#prefix__SVGID_2_);
+			fill: #00a5b2
+		}
+
+		.prefix__st62,
+		.prefix__st63,
+		.prefix__st64,
+		.prefix__st65 {
+			fill: #00a4b1
+		}
+
+		.prefix__st63,
+		.prefix__st64,
+		.prefix__st65 {
+			fill: #00a4b0
+		}
+
+		.prefix__st64,
+		.prefix__st65 {
+			fill: #00a3af
+		}
+
+		.prefix__st65 {
+			fill: #00a2af
+		}
+	</style>
+	<defs>
+		<path id="prefix__SVGID_1_"
+			d="M331.47 684.17H219.24l98.07-255.62 280.05-279.67L463.34 14.87H148.68L14.64 148.91l128.97 128.17 10.49 10.74 130-126.75h109.74l-97.41 253.91L14.66 696.35l134.78 134.78h314.69l133.2-134.04-139.01-139.01-126.85 126.09zm19.55 14.92l107.26-106.6 104.65 104.65-104.1 104.75-107.81-102.8zm-167.22 9.45l-33.96 88.52-88.54-88.52h122.5zm-11.59 98.22l37.69-98.23h115.73l103.01 98.23H172.21zM61.33 684.17L275.01 470.8l-81.87 213.37H61.33zm489.36-523.1L338.72 372.73l81.21-211.66h130.76zm-396.28 92.4L49.15 148.86 156.17 41.84l103.66 108.89-105.42 102.74zM440.58 39.24l-37.39 97.46H280.12l-92.78-97.46h253.24zm-11.3 97.46l33.67-87.76 87.77 87.76H429.28z" />
+	</defs>
+	<clipPath id="prefix__SVGID_2_">
+		<use xlink:href="#prefix__SVGID_1_" overflow="visible" />
+	</clipPath>
+	<path class="prefix__st0" d="M550.72 57l-1.69-8.06h1.69zM550.72 73.84l-5.22-24.9h3.53l1.69 8.06z" />
+	<path class="prefix__st0" d="M550.72 90.67l-8.74-41.73h3.52l5.22 24.9z" />
+	<path class="prefix__st1"
+		d="M550.72 107.51l-12.27-58.57h3.53l8.74 41.73zM550.72 134.51L532.8 48.94h5.65l12.27 58.57z" />
+	<path class="prefix__st2" d="M545.52 136.7l-18.37-87.76h5.65l17.92 85.57v2.19z" />
+	<path class="prefix__st3" d="M539.87 136.7l-18.38-87.76h5.66l18.37 87.76z" />
+	<path class="prefix__st2" d="M534.22 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st4" d="M528.56 136.7l-18.38-87.76h5.66l18.38 87.76z" />
+	<path class="prefix__st5" d="M522.91 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st6" d="M517.25 136.7l-18.37-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st6" d="M511.6 136.7l-18.38-87.76h5.66l18.37 87.76z" />
+	<path class="prefix__st7" d="M505.95 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st8" d="M500.29 136.7l-18.38-87.76h5.66l18.38 87.76z" />
+	<path class="prefix__st9" d="M494.64 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st10" d="M488.99 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st10" d="M483.33 136.7l-18.38-87.76h5.66l18.38 87.76z" />
+	<path class="prefix__st11" d="M477.68 136.7L459.3 48.94h5.65l18.38 87.76z" />
+	<path class="prefix__st11" d="M472.02 136.7l-18.38-87.76h5.66l18.38 87.76z" />
+	<path class="prefix__st11" d="M466.37 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st12" d="M460.72 136.7l-18.38-87.76h5.65l18.38 87.76z" />
+	<path class="prefix__st13" d="M455.06 136.7l-18.38-87.76h5.66l18.38 87.76z" />
+	<path class="prefix__st14"
+		d="M449.41 136.7l-18.38-87.76h5.65l18.38 87.76zM443.75 136.7l-14.47-69.11V48.94h1.75l18.38 87.76z" />
+	<path class="prefix__st14" d="M438.1 136.7l-8.82-42.11v-27l14.47 69.11z" />
+	<path class="prefix__st15" d="M432.45 136.7l-3.17-15.11v-27l8.82 42.11zM429.28 121.59l3.17 15.11h-3.17z" />
+	<path class="prefix__st12" d="M440.58 40.54l-.28-1.3h.28z" />
+	<path class="prefix__st13" d="M440.58 67.54l-5.93-28.3h5.65l.28 1.3z" />
+	<path class="prefix__st14" d="M440.58 94.54L429 39.24h5.65l5.93 28.3z" />
+	<path class="prefix__st14"
+		d="M440.58 121.53l-17.24-82.29H429l11.58 55.3zM440.58 136.68l-.11.02h-2.37l-20.41-97.46h5.65l17.24 82.29z" />
+	<path class="prefix__st15" d="M432.45 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st15" d="M426.79 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st16" d="M421.14 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st17" d="M415.48 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st18" d="M409.83 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st19" d="M404.18 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st19" d="M398.52 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st19" d="M392.87 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st20"
+		d="M387.22 136.7L366.8 39.24h5.66l20.41 97.46zM381.56 136.7l-20.41-97.46h5.65l20.42 97.46z" />
+	<path class="prefix__st21" d="M375.91 136.7L355.5 39.24h5.65l20.41 97.46z" />
+	<path class="prefix__st22" d="M370.25 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st22" d="M364.6 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st23" d="M358.95 136.7l-20.42-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st23" d="M353.29 136.7l-20.41-97.46h5.65l20.42 97.46z" />
+	<path class="prefix__st24" d="M347.64 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st24" d="M341.98 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st25" d="M336.33 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st26"
+		d="M330.68 136.7l-20.42-97.46h5.66l20.41 97.46zM325.02 136.7l-20.41-97.46h5.65l20.42 97.46z" />
+	<path class="prefix__st27" d="M319.37 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st27"
+		d="M313.71 136.7L293.3 39.24h5.66l20.41 97.46zM308.06 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st28" d="M302.41 136.7L282 39.24h5.65l20.41 97.46z" />
+	<path class="prefix__st29" d="M296.75 136.7l-20.41-97.46H282l20.41 97.46z" />
+	<path class="prefix__st30" d="M291.1 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st31" d="M285.44 136.7l-20.41-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st32" d="M279.79 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st33" d="M274.14 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st33"
+		d="M268.48 136.7l-20.41-97.46h5.66l20.41 97.46zM262.83 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st34" d="M257.18 136.7l-20.42-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st34" d="M251.52 136.7l-20.41-97.46h5.65l20.42 97.46z" />
+	<path class="prefix__st35" d="M245.87 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st36" d="M240.21 136.7L219.8 39.24h5.66l20.41 97.46z" />
+	<path class="prefix__st37" d="M234.56 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st36" d="M228.91 136.7l-20.42-97.46h5.66l20.41 97.46z" />
+	<path class="prefix__st38" d="M223.25 136.7l-20.41-97.46h5.65l20.42 97.46z" />
+	<path class="prefix__st38" d="M217.6 136.7l-20.41-97.46h5.65l20.41 97.46z" />
+	<path class="prefix__st39"
+		d="M211.94 136.7l-20.41-97.46h5.66l20.41 97.46zM206.29 136.7l-18.96-90.51v-6.95h4.2l20.41 97.46z" />
+	<path class="prefix__st40" d="M200.64 136.7l-13.31-63.51v-27l18.96 90.51z" />
+	<path class="prefix__st41" d="M194.98 136.7l-7.65-36.52V73.19l13.31 63.51z" />
+	<path class="prefix__st42" d="M189.33 136.7l-2-9.52v-27l7.65 36.52zM187.33 127.18l2 9.52h-2z" />
+	<path class="prefix__st33" d="M259.83 68.36l-5.56-26.52h5.56z" />
+	<path class="prefix__st33" d="M259.83 95.36l-11.21-53.52h5.65l5.56 26.52z" />
+	<path class="prefix__st33" d="M259.83 122.36l-16.87-80.52h5.66l11.21 53.52z" />
+	<path class="prefix__st34" d="M259.83 149.36L237.31 41.84h5.65l16.87 80.52z" />
+	<path class="prefix__st34" d="M259.83 176.35L231.65 41.84h5.66l22.52 107.52z" />
+	<path class="prefix__st35" d="M259.83 203.35L226 41.84h5.65l28.18 134.51z" />
+	<path class="prefix__st36" d="M259.83 230.35L220.35 41.84H226l33.83 161.51z" />
+	<path class="prefix__st37" d="M259.83 239.21l-3.64.76-41.5-198.13h5.66l39.48 188.51z" />
+	<path class="prefix__st36" d="M256.19 239.97l-5.42 1.13-41.73-199.26h5.65z" />
+	<path class="prefix__st38"
+		d="M250.77 241.1l-5.42 1.14-41.97-200.4h5.66zM245.35 242.24l-5.41 1.13-42.21-201.53h5.65z" />
+	<path class="prefix__st39" d="M239.94 243.37l-5.42 1.14-42.44-202.67h5.65z" />
+	<path class="prefix__st39" d="M234.52 244.51l-5.42 1.13-42.68-203.8h5.66z" />
+	<path class="prefix__st40" d="M229.1 245.64l-5.41 1.13-42.92-204.93h5.65z" />
+	<path class="prefix__st41" d="M223.69 246.77l-5.42 1.14-43.15-206.07h5.65z" />
+	<path class="prefix__st42" d="M218.27 247.91l-5.41 1.13-43.4-207.2h5.66z" />
+	<path class="prefix__st42"
+		d="M212.86 249.04l-5.42 1.14-43.63-208.34h5.65zM207.44 250.18l-5.42 1.13-43.87-209.47h5.66z" />
+	<path class="prefix__st42" d="M202.02 251.31l-5.41 1.14L152.5 41.84h5.65z" />
+	<path class="prefix__st43" d="M196.61 252.45l-4.91 1.02h-.53L146.85 41.84h5.65z" />
+	<path class="prefix__st44" d="M185.51 253.47L141.19 41.84h5.66l44.32 211.63z" />
+	<path class="prefix__st45"
+		d="M179.86 253.47L135.54 41.84h5.65l44.32 211.63zM174.21 253.47L129.88 41.84h5.66l44.32 211.63z" />
+	<path class="prefix__st46" d="M168.55 253.47L124.23 41.84h5.65l44.33 211.63z" />
+	<path class="prefix__st47" d="M162.9 253.47L118.59 41.9l.29-.06h5.35l44.32 211.63z" />
+	<path class="prefix__st48" d="M157.24 253.47L113.17 43.03l5.42-1.13 44.31 211.57z" />
+	<path class="prefix__st48" d="M151.59 253.47l-43.83-209.3 5.41-1.14 44.07 210.44z" />
+	<path class="prefix__st49" d="M145.94 253.47L102.34 45.3l5.42-1.13 43.83 209.3z" />
+	<path class="prefix__st49" d="M140.28 253.47L96.92 46.43l5.42-1.13 43.6 208.17z" />
+	<path class="prefix__st50" d="M134.63 253.47L91.51 47.57l5.41-1.14 43.36 207.04z" />
+	<path class="prefix__st50" d="M128.97 253.47L86.09 48.7l5.42-1.13 43.12 205.9z" />
+	<path class="prefix__st51" d="M123.32 253.47L80.67 49.84l5.42-1.14 42.88 204.77z" />
+	<path class="prefix__st52" d="M117.67 253.47L75.26 50.97l5.41-1.13 42.65 203.63z" />
+	<path class="prefix__st53" d="M112.01 253.47L69.84 52.11l5.42-1.14 42.41 202.5z" />
+	<path class="prefix__st53"
+		d="M106.36 253.47L64.43 53.24l5.41-1.13 42.17 201.36zM100.71 253.47l-41.7-199.1 5.42-1.13 41.93 200.23z" />
+	<path class="prefix__st54" d="M95.05 253.47L53.59 55.51l5.42-1.14 41.7 199.1z" />
+	<path class="prefix__st55" d="M89.4 253.47L49.15 61.3v-4.86l4.44-.93 41.46 197.96z" />
+	<path class="prefix__st55" d="M83.74 253.47L49.15 88.3v-27L89.4 253.47z" />
+	<path class="prefix__st56" d="M78.09 253.47L49.15 115.29V88.3l34.59 165.17z" />
+	<path class="prefix__st57" d="M72.44 253.47L49.15 142.29v-27l28.94 138.18z" />
+	<path class="prefix__st57" d="M66.78 253.47l-17.63-84.18v-27l23.29 111.18z" />
+	<path class="prefix__st58" d="M61.13 253.47l-11.98-57.18v-27l17.63 84.18zM49.15 196.29l11.98 57.18H49.15z" />
+	<path class="prefix__st2" d="M550.69 161.36l-.06-.29h.06z" />
+	<path class="prefix__st3" d="M550.69 188.36l-5.72-27.29h5.66l.06.29z" />
+	<path class="prefix__st2" d="M550.69 215.36l-11.37-54.29h5.65l5.72 27.29z" />
+	<path class="prefix__st4" d="M550.69 242.35l-17.02-81.28h5.65l11.37 54.29z" />
+	<path class="prefix__st5" d="M550.69 269.35l-22.68-108.28h5.66l17.02 81.28z" />
+	<path class="prefix__st6" d="M550.69 296.35l-28.33-135.28h5.65l22.68 108.28z" />
+	<path class="prefix__st6" d="M550.69 323.34L516.7 161.07h5.66l28.33 135.28z" />
+	<path class="prefix__st7" d="M550.69 336.15l-2.85.59-36.79-175.67h5.65l33.99 162.27z" />
+	<path class="prefix__st8" d="M547.84 336.74l-5.42 1.14-37.02-176.81h5.65z" />
+	<path class="prefix__st9" d="M542.42 337.88l-5.41 1.13-37.27-177.94h5.66z" />
+	<path class="prefix__st10" d="M537.01 339.01l-5.42 1.13-37.5-179.07h5.65z" />
+	<path class="prefix__st10" d="M531.59 340.14l-5.41 1.14-37.75-180.21h5.66z" />
+	<path class="prefix__st11" d="M526.18 341.28l-5.42 1.13-37.98-181.34h5.65z" />
+	<path class="prefix__st11" d="M520.76 342.41l-5.42 1.14-38.21-182.48h5.65z" />
+	<path class="prefix__st11" d="M515.34 343.55l-5.41 1.13-38.46-183.61h5.66z" />
+	<path class="prefix__st12" d="M509.93 344.68l-5.42 1.14-38.69-184.75h5.65z" />
+	<path class="prefix__st13" d="M504.51 345.82l-5.42 1.13-38.93-185.88h5.66z" />
+	<path class="prefix__st14" d="M499.09 346.95l-5.41 1.13-39.17-187.01h5.65z" />
+	<path class="prefix__st14"
+		d="M493.68 348.08l-5.42 1.14-39.4-188.15h5.65zM488.26 349.22l-5.42 1.13-39.64-189.28h5.66z" />
+	<path class="prefix__st15" d="M482.84 350.35l-5.41 1.14-39.88-190.42h5.65z" />
+	<path class="prefix__st15" d="M477.43 351.49l-5.42 1.13-40.11-191.55h5.65z" />
+	<path class="prefix__st16" d="M472.01 352.62l-5.41 1.14-40.36-192.69h5.66z" />
+	<path class="prefix__st17" d="M466.6 353.76l-5.42 1.13-40.59-193.82h5.65z" />
+	<path class="prefix__st18" d="M461.18 354.89l-5.42 1.14-40.83-194.96h5.66z" />
+	<path class="prefix__st19" d="M455.76 356.03l-5.41 1.13-41.07-196.09h5.65z" />
+	<path class="prefix__st19" d="M450.35 357.16l-5.42 1.13-41.3-197.22h5.65z" />
+	<path class="prefix__st19" d="M444.93 358.29l-5.42 1.14-41.54-198.36h5.66z" />
+	<path class="prefix__st20" d="M439.51 359.43l-5.41 1.13-41.78-199.49h5.65z" />
+	<path class="prefix__st20" d="M434.1 360.56l-5.42 1.14-42.02-200.63h5.66z" />
+	<path class="prefix__st21" d="M428.68 361.7l-5.42 1.13-42.18-201.44 1.56-.32h4.02z" />
+	<path transform="rotate(-11.829 399.417 262.653)" class="prefix__st22" d="M396.7 159.78h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 394.001 263.787)" class="prefix__st22" d="M391.28 160.91h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 388.585 264.921)" class="prefix__st23" d="M385.86 162.04h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 383.17 266.056)" class="prefix__st23" d="M380.45 163.18h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 377.754 267.19)" class="prefix__st24" d="M375.03 164.31h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 372.338 268.324)" class="prefix__st24" d="M369.61 165.45h5.53v205.81h-5.53z" />
+	<path transform="rotate(-11.829 366.923 269.458)" class="prefix__st25" d="M364.2 166.58h5.53v205.81h-5.53z" />
+	<path class="prefix__st26"
+		d="M385.35 370.77l-5.42 1.14-41.21-196.78v-4.87l4.44-.93zM379.93 371.91l-3.92.82h-1.56l-35.73-170.6v-27z" />
+	<path class="prefix__st27"
+		d="M368.8 372.73l-30.08-143.61v-26.99l35.73 170.6zM363.14 372.73l-24.42-116.61v-27l30.08 143.61z" />
+	<path class="prefix__st27" d="M357.49 372.73l-18.77-89.61v-27l24.42 116.61z" />
+	<path class="prefix__st28" d="M351.84 372.73l-13.12-62.61v-27l18.77 89.61z" />
+	<path class="prefix__st29" d="M346.18 372.73l-7.46-35.62v-26.99l13.12 62.61z" />
+	<path class="prefix__st30" d="M340.53 372.73l-1.81-8.62v-27l7.46 35.62z" />
+	<path class="prefix__st31" d="M338.72 364.11l1.81 8.62h-1.81z" />
+	<path class="prefix__st40" d="M275.01 491.82l-4.4-21.02h4.4z" />
+	<path class="prefix__st41" d="M275.01 518.82l-10.06-48.02h5.66l4.4 21.02z" />
+	<path class="prefix__st42" d="M275.01 545.82L259.3 470.8h5.65l10.06 48.02z" />
+	<path class="prefix__st42" d="M275.01 572.81L253.64 470.8h5.66l15.71 75.02z" />
+	<path class="prefix__st42" d="M275.01 599.81L247.99 470.8h5.65l21.37 102.01z" />
+	<path class="prefix__st42" d="M275.01 626.81L242.34 470.8h5.65l27.02 129.01z" />
+	<path class="prefix__st43" d="M275.01 653.81l-38.28-182.8.99-.21h4.62l32.67 156.01z" />
+	<path class="prefix__st44" d="M275.01 674.84l-1.2.25-42.5-202.94 5.42-1.14 38.28 182.8z" />
+	<path transform="rotate(-11.829 249.82 574.122)" class="prefix__st45" d="M247.08 470.51h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 244.403 575.256)" class="prefix__st45" d="M241.67 471.65h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 238.988 576.39)" class="prefix__st46" d="M236.25 472.78h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 233.573 577.525)" class="prefix__st47" d="M230.84 473.92h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 228.156 578.658)" class="prefix__st48" d="M225.42 475.05h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 222.741 579.793)" class="prefix__st48" d="M220 476.18h5.53v207.34H220z" />
+	<path transform="rotate(-11.829 217.325 580.927)" class="prefix__st49" d="M214.59 477.32h5.53v207.34h-5.53z" />
+	<path transform="rotate(-11.829 211.909 582.06)" class="prefix__st49" d="M209.17 478.45h5.53v207.34h-5.53z" />
+	<path class="prefix__st50" d="M230.48 684.16l-.05.01h-5.6l-42.27-201.81 5.42-1.14z" />
+	<path class="prefix__st50" d="M219.17 684.17l-42.02-200.68 5.41-1.13 42.27 201.81z" />
+	<path class="prefix__st51" d="M213.52 684.17l-41.79-199.55 5.42-1.13 42.02 200.68z" />
+	<path class="prefix__st52" d="M207.87 684.17l-41.56-198.41 5.42-1.14 41.79 199.55z" />
+	<path class="prefix__st53" d="M202.21 684.17L160.9 486.89l5.41-1.13 41.56 198.41z" />
+	<path class="prefix__st53"
+		d="M196.56 684.17l-41.08-196.14 5.42-1.14 41.31 197.28zM190.9 684.17l-40.84-195.01 5.42-1.13 41.08 196.14z" />
+	<path class="prefix__st54" d="M185.25 684.17l-40.6-193.87 5.41-1.14 40.84 195.01z" />
+	<path class="prefix__st55" d="M179.6 684.17l-40.37-192.74 5.42-1.13 40.6 193.87z" />
+	<path class="prefix__st55" d="M173.94 684.17l-40.12-191.61 5.41-1.13 40.37 192.74z" />
+	<path class="prefix__st56" d="M168.29 684.17L128.4 493.7l5.42-1.14 40.12 191.61z" />
+	<path class="prefix__st57"
+		d="M162.63 684.17l-39.65-189.34 5.42-1.13 39.89 190.47zM156.98 684.17l-39.41-188.2 5.41-1.14 39.65 189.34z" />
+	<path class="prefix__st58"
+		d="M151.33 684.17L112.15 497.1l5.42-1.13 39.41 188.2zM61.33 507.74l50.82-10.64 39.18 187.07h-90z" />
+	<path class="prefix__st27" d="M428.63 712.41l-.81-3.87h.81z" />
+	<path class="prefix__st28" d="M428.63 739.4l-6.47-30.86h5.66l.81 3.87z" />
+	<path class="prefix__st29" d="M428.63 766.4l-12.12-57.86h5.65l6.47 30.86z" />
+	<path class="prefix__st30" d="M428.63 793.4l-17.77-84.86h5.65l12.12 57.86z" />
+	<path class="prefix__st31" d="M425.77 806.76l-20.57-98.22h5.66l17.77 84.86v13.36z" />
+	<path class="prefix__st32" d="M420.12 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st33" d="M414.46 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st33" d="M408.81 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st33" d="M403.16 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st34" d="M397.5 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st34" d="M391.85 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st35" d="M386.2 806.76l-20.58-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st36" d="M380.54 806.76l-20.57-98.22h5.65l20.58 98.22z" />
+	<path class="prefix__st37" d="M374.89 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st36" d="M369.23 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st38" d="M363.58 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st38" d="M357.93 806.76l-20.58-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st39" d="M352.27 806.76l-20.57-98.22h5.65l20.58 98.22z" />
+	<path class="prefix__st39" d="M346.62 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st40" d="M340.96 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st41" d="M335.31 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st42" d="M329.66 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st42" d="M324 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st42" d="M318.35 806.76l-20.57-98.22h5.65L324 806.76z" />
+	<path class="prefix__st42" d="M312.69 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st43" d="M307.04 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st44" d="M301.39 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st45"
+		d="M295.73 806.76l-20.57-98.22h5.66l20.57 98.22zM290.08 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st46" d="M284.42 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st47" d="M278.77 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st48"
+		d="M273.12 806.76l-20.57-98.22h5.65l20.57 98.22zM267.46 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st49" d="M261.81 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st49" d="M256.16 806.76l-20.58-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st50" d="M250.5 806.76l-20.57-98.22h5.65l20.58 98.22z" />
+	<path class="prefix__st50" d="M244.85 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st51" d="M239.19 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st52" d="M233.54 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st53" d="M227.89 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st53" d="M222.23 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st53" d="M216.58 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st54" d="M210.92 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st55" d="M205.27 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st55" d="M199.62 806.76l-20.57-98.22h5.65l20.57 98.22z" />
+	<path class="prefix__st56" d="M193.96 806.76l-20.57-98.22h5.66l20.57 98.22z" />
+	<path class="prefix__st57" d="M188.31 806.76l-16.1-76.88v-21.26l.4-.08h.78l20.57 98.22z" />
+	<path class="prefix__st57" d="M182.65 806.76l-10.44-49.88v-27l16.1 76.88z" />
+	<path class="prefix__st58" d="M177 806.76l-4.79-22.88v-27l10.44 49.88z" />
+	<path class="prefix__st58" d="M172.21 783.88l4.79 22.88h-4.79z" />
+	<path class="prefix__st55" d="M183.8 731.22l-4.75-22.68h4.75z" />
+	<path class="prefix__st56" d="M183.8 758.22l-10.41-49.68h5.66l4.75 22.68z" />
+	<path class="prefix__st57" d="M183.8 785.21l-16.06-76.67h5.65l10.41 49.68z" />
+	<path class="prefix__st57" d="M180.62 797.06l-18.54-88.52h5.66l16.06 76.67v11.85z" />
+	<path class="prefix__st58" d="M174.97 797.06l-18.54-88.52h5.65l18.54 88.52z" />
+	<path class="prefix__st58" d="M156.43 708.54l18.54 88.52H61.3v-88.52z" />
+	<path class="prefix__st11" d="M562.93 597.75l-1.11-5.26h1.11z" />
+	<path class="prefix__st12" d="M562.93 624.75l-6.76-32.26h5.65l1.11 5.26z" />
+	<path class="prefix__st13" d="M562.93 651.75l-12.41-59.26h5.65l6.76 32.26z" />
+	<path class="prefix__st14" d="M562.93 678.75l-18.07-86.26h5.66l12.41 59.26z" />
+	<path class="prefix__st14" d="M562.93 705.74l-23.72-113.25h5.65l18.07 86.26z" />
+	<path class="prefix__st14" d="M562.93 732.74l-29.38-140.25h5.66l23.72 113.25z" />
+	<path class="prefix__st15" d="M562.93 759.74L527.9 592.49h5.65l29.38 140.25z" />
+	<path class="prefix__st15" d="M562.93 786.74l-40.68-194.25h5.65l35.03 167.25z" />
+	<path class="prefix__st16" d="M562.93 787.9l-5.19 1.09-41.15-196.5h5.66l40.68 194.25z" />
+	<path class="prefix__st17" d="M557.74 788.99l-5.41 1.13-41.39-197.63h5.65z" />
+	<path class="prefix__st18" d="M552.33 790.12l-5.42 1.13-41.63-198.76h5.66z" />
+	<path class="prefix__st19" d="M546.91 791.25l-5.42 1.14-41.86-199.9h5.65z" />
+	<path class="prefix__st19" d="M541.49 792.39l-5.41 1.13-42.1-201.03h5.65z" />
+	<path class="prefix__st19" d="M536.08 793.52l-5.42 1.14-42.34-202.17h5.66z" />
+	<path class="prefix__st20" d="M530.66 794.66l-5.42 1.13-42.57-203.3h5.65z" />
+	<path class="prefix__st20" d="M525.24 795.79l-5.41 1.14-42.82-204.44h5.66z" />
+	<path class="prefix__st21" d="M519.83 796.93l-5.42 1.13-43.05-205.57h5.65z" />
+	<path class="prefix__st22" d="M514.41 798.06l-5.41 1.13-43.29-206.7h5.65z" />
+	<path class="prefix__st22" d="M509 799.19l-5.42 1.14-43.53-207.84h5.66z" />
+	<path class="prefix__st23" d="M503.58 800.33l-5.42 1.13-43.76-208.97h5.65z" />
+	<path class="prefix__st23" d="M498.16 801.46l-2.04.43h-3.52l-43.85-209.4h5.65z" />
+	<path class="prefix__st24" d="M486.95 801.89l-43.86-209.4h5.66l43.85 209.4z" />
+	<path class="prefix__st24" d="M481.29 801.89l-43.85-209.4h5.65l43.86 209.4z" />
+	<path class="prefix__st25" d="M475.64 801.89l-43.86-209.4h5.66l43.85 209.4z" />
+	<path class="prefix__st26" d="M469.98 801.89l-43.85-209.4h5.65l43.86 209.4z" />
+	<path class="prefix__st26" d="M464.33 801.89l-43.83-209.3.49-.1h5.14l43.85 209.4z" />
+	<path class="prefix__st27" d="M458.68 801.89l-43.6-208.16 5.42-1.14 43.83 209.3z" />
+	<path class="prefix__st27" d="M453.02 801.89l-43.36-207.03 5.42-1.13 43.6 208.16z" />
+	<path class="prefix__st27" d="M447.37 801.89L404.25 596l5.41-1.14 43.36 207.03z" />
+	<path class="prefix__st28" d="M441.71 801.89l-42.88-204.76 5.42-1.13 43.12 205.89z" />
+	<path class="prefix__st29" d="M436.06 801.89l-42.64-203.62 5.41-1.14 42.88 204.76z" />
+	<path class="prefix__st30" d="M430.41 801.89L388 599.4l5.42-1.13 42.64 203.62z" />
+	<path class="prefix__st31" d="M424.75 801.89l-42.17-201.36 5.42-1.13 42.41 202.49z" />
+	<path class="prefix__st32" d="M419.1 801.89l-41.93-200.22 5.41-1.14 42.17 201.36z" />
+	<path class="prefix__st33" d="M413.44 801.89L371.75 602.8l5.42-1.13 41.93 200.22z" />
+	<path class="prefix__st33"
+		d="M407.79 801.89l-41.46-197.95 5.42-1.14 41.69 199.09zM402.14 801.89l-41.22-196.82 5.41-1.13 41.46 197.95z" />
+	<path class="prefix__st34"
+		d="M396.48 801.89L355.5 606.21l5.42-1.14 41.22 196.82zM390.83 801.89l-39.81-190.08v-4.67l4.48-.93 40.98 195.68z" />
+	<path class="prefix__st35" d="M385.17 801.89L351.02 638.8v-26.99l39.81 190.08z" />
+	<path class="prefix__st36" d="M379.52 801.89l-28.5-136.09v-27l34.15 163.09z" />
+	<path class="prefix__st37" d="M373.87 801.89L351.02 692.8v-27l28.5 136.09z" />
+	<path class="prefix__st36" d="M368.21 801.89l-17.19-82.09v-27l22.85 109.09z" />
+	<path class="prefix__st38" d="M362.56 801.89l-11.54-55.1V719.8l17.19 82.09z" />
+	<path class="prefix__st38" d="M356.91 801.89l-5.89-28.1v-27l11.54 55.1z" />
+	<path class="prefix__st39" d="M351.25 801.89l-.23-1.1v-27l5.89 28.1z" />
+	<path class="prefix__st39" d="M351.02 800.79l.23 1.1h-.23z" />
+	<path clip-path="url(#prefix__SVGID_2_)" fill="#00a6b3" d="M597.36 27.2l-2.58-12.33h2.58z" />
+	<path class="prefix__st60" d="M597.36 44.03l-6.1-29.16h3.52l2.58 12.33z" />
+	<path class="prefix__st60" d="M597.36 60.87l-9.63-46h3.53l6.1 29.16z" />
+	<path class="prefix__st61" d="M597.36 77.7L584.2 14.87h3.53l9.63 46z" />
+	<path class="prefix__st61" d="M597.36 94.54l-16.68-79.67h3.52l13.16 62.83z" />
+	<path class="prefix__st62" d="M597.36 111.37l-20.21-96.5h3.53l16.68 79.67z" />
+	<path class="prefix__st62" d="M597.36 128.21L573.63 14.87h3.52l20.21 96.5z" />
+	<path class="prefix__st62" d="M597.36 145.04L570.1 14.87h3.53l23.73 113.34z" />
+	<path class="prefix__st63"
+		d="M597.36 161.88L566.58 14.87h3.52l27.26 130.17zM597.36 178.72L563.05 14.87h3.53l30.78 147.01z" />
+	<path class="prefix__st64" d="M597.36 195.55L559.52 14.87h3.53l34.31 163.85z" />
+	<path class="prefix__st64" d="M597.36 212.39L556 14.87h3.52l37.84 180.68z" />
+	<path class="prefix__st65" d="M597.36 229.22L552.47 14.87H556l41.36 197.52z" />
+	<path class="prefix__st65"
+		d="M597.36 246.06L548.95 14.87h3.52l44.89 214.35zM597.36 262.89L545.42 14.87h3.53l48.41 231.19z" />
+	<path class="prefix__st0" d="M597.36 279.73L541.9 14.87h3.52l51.94 248.02z" />
+	<path class="prefix__st0" d="M597.36 296.56L538.37 14.87h3.53l55.46 264.86z" />
+	<path class="prefix__st0" d="M597.36 313.4L534.84 14.87h3.53l58.99 281.69z" />
+	<path class="prefix__st1"
+		d="M597.36 330.23L531.32 14.87h3.52l62.52 298.53zM597.36 357.23l-71.7-342.36h5.66l66.04 315.36z" />
+	<path class="prefix__st2" d="M597.36 384.23L520.01 14.87h5.65l71.7 342.36z" />
+	<path class="prefix__st3" d="M597.36 411.22l-83-396.35h5.65l77.35 369.36z" />
+	<path class="prefix__st2" d="M597.36 438.22L508.7 14.87h5.66l83 396.35z" />
+	<path class="prefix__st4" d="M597.36 465.22L503.05 14.87h5.65l88.66 423.35z" />
+	<path class="prefix__st5" d="M597.36 492.22L497.39 14.87h5.66l94.31 450.35z" />
+	<path class="prefix__st6"
+		d="M597.36 519.21L491.74 14.87h5.65l99.97 477.35zM597.36 546.21L486.09 14.87h5.65l105.62 504.34z" />
+	<path class="prefix__st7" d="M597.36 573.21L480.43 14.87h5.66l111.27 531.34z" />
+	<path class="prefix__st8" d="M597.36 600.21L474.78 14.87h5.65l116.93 558.34z" />
+	<path class="prefix__st9" d="M597.36 627.2L469.13 14.87h5.65l122.58 585.34z" />
+	<path class="prefix__st10"
+		d="M597.36 654.2L463.47 14.87h5.66L597.36 627.2zM597.36 681.2L457.82 14.87h5.65L597.36 654.2z" />
+	<path class="prefix__st11"
+		d="M597.36 708.2L452.16 14.87h5.66L597.36 681.2zM597.36 735.19L446.51 14.87h5.65l145.2 693.33z" />
+	<path class="prefix__st11" d="M597.36 762.19L440.86 14.87h5.65l150.85 720.32z" />
+	<path class="prefix__st12" d="M597.36 789.19L435.2 14.87h5.66l156.5 747.32z" />
+	<path class="prefix__st13" d="M597.36 811.04l-1.03.21L429.55 14.87h5.65l162.16 774.32z" />
+	<path class="prefix__st14"
+		d="M596.33 811.25l-5.42 1.14L423.89 14.87h5.66zM590.91 812.39l-5.41 1.13L418.24 14.87h5.65z" />
+	<path class="prefix__st14" d="M585.5 813.52l-5.42 1.14L412.59 14.87h5.65z" />
+	<path class="prefix__st15"
+		d="M580.08 814.66l-5.42 1.13L406.93 14.87h5.66zM574.66 815.79l-5.41 1.13L401.28 14.87h5.65z" />
+	<path class="prefix__st16" d="M569.25 816.92l-5.42 1.14L395.62 14.87h5.66z" />
+	<path class="prefix__st17" d="M563.83 818.06l-5.41 1.13L389.97 14.87h5.65z" />
+	<path class="prefix__st18" d="M558.42 819.19l-5.42 1.14L384.32 14.87h5.65z" />
+	<path class="prefix__st19"
+		d="M553 820.33l-5.42 1.13L378.66 14.87h5.66zM547.58 821.46l-5.41 1.14L373.01 14.87h5.65z" />
+	<path class="prefix__st19" d="M542.17 822.6l-5.42 1.13-169.4-808.86h5.66z" />
+	<path class="prefix__st20" d="M536.75 823.73l-5.42 1.13L361.7 14.87h5.65z" />
+	<path class="prefix__st20" d="M531.33 824.86l-5.41 1.14L356.05 14.87h5.65z" />
+	<path class="prefix__st21" d="M525.92 826l-5.42 1.13L350.39 14.87h5.66z" />
+	<path class="prefix__st22"
+		d="M520.5 827.13l-5.42 1.14-170.34-813.4h5.65zM515.08 828.27l-5.41 1.13L339.09 14.87h5.65z" />
+	<path class="prefix__st23"
+		d="M509.67 829.4l-5.42 1.14L333.43 14.87h5.66zM504.25 830.54l-2.83.59h-2.7L327.78 14.87h5.65z" />
+	<path class="prefix__st24" d="M493.07 831.13L322.12 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st24" d="M487.41 831.13L316.47 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st25" d="M481.76 831.13L310.82 14.87h5.65l170.94 816.26z" />
+	<path class="prefix__st26"
+		d="M476.11 831.13L305.16 14.87h5.66l170.94 816.26zM470.45 831.13L299.51 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st27" d="M464.8 831.13L293.85 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st27" d="M459.14 831.13L288.2 14.87h5.65L464.8 831.13z" />
+	<path class="prefix__st27" d="M453.49 831.13L282.55 14.87h5.65l170.94 816.26z" />
+	<path class="prefix__st28" d="M447.84 831.13L276.89 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st29" d="M442.18 831.13L271.24 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st30" d="M436.53 831.13L265.58 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st31" d="M430.88 831.13L259.93 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st32" d="M425.22 831.13L254.28 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st33" d="M419.57 831.13L248.62 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st33"
+		d="M413.91 831.13L242.97 14.87h5.65l170.95 816.26zM408.26 831.13L237.32 14.87h5.65l170.94 816.26z" />
+	<path class="prefix__st34" d="M402.61 831.13L231.66 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st34" d="M396.95 831.13L226.01 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st35" d="M391.3 831.13L220.35 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st36" d="M385.64 831.13L214.7 14.87h5.65L391.3 831.13z" />
+	<path class="prefix__st37" d="M379.99 831.13L209.05 14.87h5.65l170.94 816.26z" />
+	<path class="prefix__st36" d="M374.34 831.13L203.39 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st38" d="M368.68 831.13L197.74 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st38" d="M363.03 831.13L192.08 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st39" d="M357.37 831.13L186.43 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st39" d="M351.72 831.13L180.78 14.87h5.65l170.94 816.26z" />
+	<path class="prefix__st40" d="M346.07 831.13L175.12 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st41" d="M340.41 831.13L169.47 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st42" d="M334.76 831.13L163.81 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st42" d="M329.11 831.13L158.16 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st42" d="M323.45 831.13L152.51 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st42" d="M317.8 831.13L146.85 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st43" d="M312.14 831.13L141.2 14.87h5.65L317.8 831.13z" />
+	<path class="prefix__st44" d="M306.49 831.13L135.54 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st45" d="M300.84 831.13L129.89 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st45" d="M295.18 831.13L124.24 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st46" d="M289.53 831.13L118.58 14.87h5.66l170.94 816.26z" />
+	<path class="prefix__st47" d="M283.87 831.13L112.93 14.87h5.65l170.95 816.26z" />
+	<path class="prefix__st48" d="M278.22 831.13L107.45 15.7l3.94-.83h1.54l170.94 816.26z" />
+	<path class="prefix__st48" d="M272.57 831.13L102.03 16.83l5.42-1.13 170.77 815.43z" />
+	<path class="prefix__st49" d="M266.91 831.13L96.62 17.96l5.41-1.13 170.54 814.3z" />
+	<path class="prefix__st49" d="M261.26 831.13L91.2 19.1l5.42-1.14 170.29 813.17z" />
+	<path class="prefix__st50" d="M255.6 831.13L85.78 20.23l5.42-1.13 170.06 812.03z" />
+	<path class="prefix__st50" d="M249.95 831.13L80.37 21.37l5.41-1.14 169.82 810.9z" />
+	<path class="prefix__st51" d="M244.3 831.13L74.95 22.5l5.42-1.13 169.58 809.76z" />
+	<path class="prefix__st52" d="M238.64 831.13L69.53 23.64l5.42-1.14L244.3 831.13z" />
+	<path class="prefix__st53" d="M232.99 831.13L64.12 24.77l5.41-1.13 169.11 807.49z" />
+	<path class="prefix__st53" d="M227.33 831.13L58.7 25.9l5.42-1.13 168.87 806.36z" />
+	<path class="prefix__st53" d="M221.68 831.13L53.28 27.04l5.42-1.14 168.63 805.23z" />
+	<path class="prefix__st54" d="M216.03 831.13L47.87 28.17l5.41-1.13 168.4 804.09z" />
+	<path class="prefix__st55"
+		d="M210.37 831.13L42.45 29.31l5.42-1.14 168.16 802.96zM204.72 831.13L37.04 30.44l5.41-1.13 167.92 801.82z" />
+	<path class="prefix__st56" d="M199.07 831.13L31.62 31.58l5.42-1.14 167.68 800.69z" />
+	<path class="prefix__st57" d="M193.41 831.13L26.2 32.71l5.42-1.13 167.45 799.55z" />
+	<path class="prefix__st57" d="M187.76 831.13L20.79 33.84l5.41-1.13 167.21 798.42z" />
+	<path class="prefix__st58" d="M182.1 831.13L15.37 34.98l5.42-1.14 166.97 797.29z" />
+	<path class="prefix__st58" d="M14.64 35.13l.73-.15L182.1 831.13H14.64z" />
+</svg>

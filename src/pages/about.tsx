@@ -11,8 +11,8 @@ type DataProps = {
    };
 };
 
-const UsingTypescript: React.FC<PageProps<DataProps>> = ({ data, path }) => (
-   <Layout>
+const AboutPage: React.FC<PageProps<DataProps>> = ({ data, path }) => (
+   <>
       <SEO title="Using TypeScript" />
       <h1>Gatsby supports TypeScript by default!</h1>
       <p>
@@ -36,10 +36,10 @@ const UsingTypescript: React.FC<PageProps<DataProps>> = ({ data, path }) => (
          .
       </p>
       <Link to="/">Go back to the homepage</Link>
-   </Layout>
+   </>
 );
 
-export default UsingTypescript;
+export default AboutPage;
 
 export const query = graphql`
    {

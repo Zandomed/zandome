@@ -1,13 +1,14 @@
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
+import ItemNavbar from './item-navbar';
 type DataProps = {
    siteTitle: string;
 };
 const Header: React.FC<DataProps> = ({ siteTitle }) => (
    <header
       style={{
-         background: `rebeccapurple`,
+         background: `#cbcbcb`,
          marginBottom: `1.45rem`,
       }}>
       <div
@@ -26,6 +27,10 @@ const Header: React.FC<DataProps> = ({ siteTitle }) => (
                {siteTitle}
             </Link>
          </h1>
+         <div>
+            <ItemNavbar title={'projects'} to={'/project'} />
+            <ItemNavbar title={'about'} to={'/about'} />
+         </div>
       </div>
    </header>
 );
