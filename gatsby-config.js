@@ -18,13 +18,14 @@ module.exports = {
       {
          resolve: `gatsby-plugin-manifest`,
          options: {
-            name: `gatsby-starter-default`,
-            short_name: `starter`,
+            name: `Zandome`,
+            short_name: `zandome`,
+            description: `Development apps with Zandome`,
             start_url: `/`,
             background_color: `#007297`,
             theme_color: `#007297`,
             display: `minimal-ui`,
-            icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+            icon: `src/images/favicon.png`, // This path is relative to the root of the site.
          },
       },
       `gatsby-plugin-styled-components`,
