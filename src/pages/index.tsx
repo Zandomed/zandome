@@ -19,6 +19,9 @@ const IndexPage: React.FC<PageProps<void>> = () => (
             }}>
             <Image />
          </div>
+         <div>
+            <span style={{ fontSize: '25px', fontWeight: 'bold', marginTop: '2rem' }}>Comming Soon . . .</span>
+         </div>
       </HomeStyle>
    </Fragment>
 );

@@ -5,35 +5,40 @@ import ItemNavbar from './item-navbar';
 type DataProps = {
    siteTitle: string;
 };
-const Header: React.FC<DataProps> = ({ siteTitle }) => (
-   <header
-      style={{
-         background: `#cbcbcb`,
-         marginBottom: `1.45rem`,
-      }}>
-      <div
+const Header: React.FC<DataProps> = ({ siteTitle }) => {
+   return (
+      <header
          style={{
-            margin: `0 auto`,
-            maxWidth: 960,
-            padding: `1.45rem 1.0875rem`,
+            background: `rgba(0,0,0,0.5)`,
+            marginBottom: `1.45rem`,
          }}>
-         <h1 style={{ margin: 0 }}>
-            <Link
-               to="/"
-               style={{
-                  color: `white`,
-                  textDecoration: `none`,
-               }}>
-               {siteTitle}
-            </Link>
-         </h1>
-         <div>
-            <ItemNavbar title={'projects'} to={'/project'} />
-            <ItemNavbar title={'about'} to={'/about'} />
+         <div
+            style={{
+               margin: `0 auto`,
+               maxWidth: 960,
+               padding: `1.45rem 1.0875rem`,
+               display: 'flex',
+               justifyContent: 'space-between',
+               alignItems: 'center',
+            }}>
+            <h1 style={{ margin: 0 }}>
+               <Link
+                  to="/"
+                  style={{
+                     color: `white`,
+                     textDecoration: `none`,
+                  }}>
+                  {siteTitle}
+               </Link>
+            </h1>
+            <div style={{ display: 'flex' }}>
+               {/* <ItemNavbar title={'projects'} to={'/project'} />
+               <ItemNavbar title={'about'} to={'/about'} /> */}
+            </div>
          </div>
-      </div>
-   </header>
-);
+      </header>
+   );
+};
 
 Header.propTypes = {
    siteTitle: PropTypes.string.isRequired,
